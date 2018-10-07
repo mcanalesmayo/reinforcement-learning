@@ -4,9 +4,7 @@
 
 Reinforcement learning using 100% and 90% exploitation, Q-learning.
 
-## Author
-
-[Marcos Canales Mayo](https://github.com/MarcosCM)
+## References
 
 Main code developed by **Luis Montano Gella** -- montano@unizar.es
 
